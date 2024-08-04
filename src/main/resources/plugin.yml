@@ -1,0 +1,9 @@
+name: mcfetch
+version: '1.0'
+main: net.owlive.mcfetch.mcfetch.Mcfetch
+api-version: '1.20'
+commands:
+  mcfetch:
+    description: mcfetch, a chat system information tool written in java.
+    usage: /<command>
+
